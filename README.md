@@ -7,7 +7,9 @@ Contents:
 2. employee_schema.sql: A .sql file of the table schemata
 3. employee_query.sql: A .sql file of the queries
 4. employee.ipynb: A Jupyter Notebook of the bonus analysis
-5. data folder containing the CSV files used
+5. salaryrange.png: A visualization of salary ranges
+6. averagesalary.png: A visualization of average salary per title
+7. data folder containing the CSV files used
 
 Data Engineering:
 The CSVs were inspected and the QuickDBD was used to sketch out an ERD of the tables. The information from the ERD was used to create a table schema for each of the six CSV files. The SQL tables were created and each CSV file was imported into the corresponding SQL table.
