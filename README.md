@@ -1,4 +1,4 @@
-Employee Database: A mystery in two parts
+Employee Database:
 
 This project utilizes data engineering and data analysis to build a SQL database of employees of a fictional corporation called Pewlett Hackard during the 1980s and 1990s. Six CSV files containing the employee data were used.
 
